@@ -19,21 +19,18 @@ Dynamic Project Showcase
 Clone the repository:
 
 sh
-Copy
-Edit
-git clone https://github.com/your-username/your-portfolio.git  
-cd your-portfolio  
+
+git clone https://github.com/your-username/https://github.com/davit-siradze/portfolio_react.git
+cd portfolio_react
 Install dependencies:
 
 sh
-Copy
-Edit
+
 npm install  
 Run the development server:
 
 sh
-Copy
-Edit
+
 npm run dev  
 Open http://localhost:3000 in your browser.
 
@@ -41,7 +38,6 @@ Open http://localhost:3000 in your browser.
 For production, build and start the app:
 
 sh
-Copy
-Edit
+
 npm run build  
 npm start  
